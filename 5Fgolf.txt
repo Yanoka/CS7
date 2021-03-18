@@ -1,0 +1,4 @@
+Yanoka	32
+Gennad	45
+Jams	12
+Nick	6
